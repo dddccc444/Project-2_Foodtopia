@@ -40,12 +40,12 @@ var regions = [{
   pop_dish: "Greek Salmon Souvlaki Gyros with Tzatziki"
 },
 {
-  location: [20.5, 80],
+  location: [22.5, 78],
   name: "Indian",
   pop_dish: "Coconut Chicken Curry"
 },
 {
-  location: [42, 11.5],
+  location: [42, 12.5],
   name: "Italian",
   pop_dish: "Roasted Cauliflower Lasagna"
 },
@@ -60,7 +60,7 @@ var regions = [{
   pop_dish: "Spicy Butternut Squash Black Bean Enchiladas with Chipotle Greek Yogurt Sauce"
 },
 {
-  location: [29.5, 42.5],
+  location: [32, 43.5],
   name: "Middle Eastern",
   pop_dish: "High Protein Hummus Chicken Salad"
 },
